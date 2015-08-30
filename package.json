@@ -19,7 +19,6 @@
     "eslint": "^1.2.1",
     "eslint-config-standard": "^4.1.0",
     "eslint-plugin-standard": "^1.2.0",
-    "isomorphic-fetch": "^2.1.1",
     "pad": "^0.1.0",
     "steam-web-api-build-url": "0.0.2"
   },
