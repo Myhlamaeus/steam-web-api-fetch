@@ -1,7 +1,7 @@
 {
   "name": "steam-web-api-fetch",
   "description": "Thin Fetch API client for the Steam Web API",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "babelBoilerplateOptions": {
     "entryFileName": "steam-web-api-fetch",
